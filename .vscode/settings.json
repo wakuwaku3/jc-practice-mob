@@ -1,0 +1,39 @@
+{
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/build": true,
+    "**/dist": true
+  },
+  "editor.tabSize": 2,
+  "prettier.trailingComma": "all",
+  "tslint.autoFixOnSave": true,
+  "tslint.alwaysShowRuleFailuresAsWarnings": true,
+  "tslint.alwaysShowStatus": true,
+  "cSpell.words": [
+    "Guid",
+    "Injectable",
+    "Snackbar",
+    "Unmount",
+    "appbar",
+    "boardless",
+    "clickaway",
+    "csstype",
+    "haspopup",
+    "inversify",
+    "localstorage",
+    "middlewares",
+    "mixins",
+    "roboto",
+    "selectable",
+    "tmpps",
+    "workspaces",
+    "yxxx"
+  ],
+  "cSpell.ignoreRegExpList": ["/.*ー/"],
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
